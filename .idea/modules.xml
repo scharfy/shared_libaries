@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/shared_libraries.iml" filepath="$PROJECT_DIR$/.idea/shared_libraries.iml" />
+      <module fileurl="file://$PROJECT_DIR$/shared_libraries.iml" filepath="$PROJECT_DIR$/shared_libraries.iml" />
     </modules>
   </component>
 </project>
