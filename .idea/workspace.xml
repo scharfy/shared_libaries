@@ -2,7 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5314880a-7087-4d55-b80d-b0e4a5782acb" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/youTrackAPI.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vars/timedCommand.groovy" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/shared_libraries/HelloWorld.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/shared_libraries/HelloWorld.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/HelloWorld.groovy" beforeDir="false" afterPath="$PROJECT_DIR$/src/HelloWorld.groovy" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/testing.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/testing.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -23,6 +28,11 @@
         </map>
       </branch-storage>
     </favorite-branches>
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="new-feature2" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1twJqFo8u9gO8UI8TCoWeWWt6dy" />
@@ -64,6 +74,9 @@
       <updated>1623674416023</updated>
     </task>
     <servers />
+  </component>
+  <component name="UnknownFeatures">
+    <option featureType="com.intellij.fileTypeFactory" implementationName="*.php" />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">

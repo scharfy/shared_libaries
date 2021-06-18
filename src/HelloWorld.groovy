@@ -1,1 +1,1 @@
-echo "hihihihihih"
+print("jwfw")
