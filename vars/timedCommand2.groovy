@@ -9,7 +9,7 @@ def getCommand(){
 def runCommand(){
         cmdOut = sh (script: "${cmd}", returnStdout:true).trim()
         echo cmdOut
-        writeFile file: 'log.txt', text: "${cmdOut}"
+        writeFile file: '/home/niklas/Dokumente/JenkinsLogs/log.txt', text: "${cmdOut}"
 }
 
 def getOutput(){
