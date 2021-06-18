@@ -8,8 +8,8 @@ def getCommand(){
 
 def runCommand(){
         cmdOut = sh (script: "${cmd}", returnStdout:true).trim()
-        echo cmdOutput
-        writeFile file: "${logFilePath}", text: "${cmdOutput}"
+        echo cmdOut
+        writeFile file: "${logFilePath}", text: "${cmdOut}"
 }
 
 def getOutput(){
