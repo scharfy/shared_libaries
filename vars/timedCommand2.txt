@@ -1,7 +1,7 @@
-timedCommand
+timedCommand2
 ============
 
-This is the documentation for ***timedCommand***.
+This is the documentation for ***timedCommand2***.
 
 Using this function
 -------------------
@@ -13,5 +13,4 @@ To see the output, you can use this call.
 -----
     echo timedCommand.commandOutput
 -----
-
 

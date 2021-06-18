@@ -15,3 +15,4 @@ def runCommand(){
 def getOutput(){
     cmdOut
 }
+
