@@ -7,11 +7,9 @@ def getCommand(){
 }
 
 def runCommand(){
-    timestamps{
         cmdOut = sh (script: "${cmd}", returnStdout:true).trim()
         echo cmdOutput
-        writeFile
-    }
+        writeFile file: "${logFilePath}", text: "${cmdOutput}"
 }
 
 def getOutput(){
