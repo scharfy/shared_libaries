@@ -1,6 +1,7 @@
 timedCommand2
 ============
 
+author: Niklas Scharfy
 This is the documentation for ***timedCommand2***.
 
 Using this function
