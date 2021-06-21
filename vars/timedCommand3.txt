@@ -1,0 +1,17 @@
+timedCommand3
+============
+
+author: Niklas Scharfy
+This is the documentation for ***timedCommand2***.
+
+Using this function
+-------------------
+
+To use this function, supply a command to run.
+***timedCommand*** will then execute the command.
+
+To see the output, you can use this call.
+-----
+    echo timedCommand.commandOutput
+-----
+

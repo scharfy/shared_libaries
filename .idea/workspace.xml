@@ -2,8 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5314880a-7087-4d55-b80d-b0e4a5782acb" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/jenkinsSettings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vars/timeForBuild.groovy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vars/timedCommand3.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vars/timedCommand3.groovy" beforeDir="false" afterPath="$PROJECT_DIR$/vars/timedCommand3.groovy" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -31,6 +33,11 @@
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="Jenkins.Settings">
+    <option name="jenkinsVersion" value="VERSION_2" />
+    <option name="lastSelectedView" value="all" />
+    <option name="username" value="scharfy" />
+  </component>
   <component name="ProjectId" id="1twJqFo8u9gO8UI8TCoWeWWt6dy" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -40,11 +47,12 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/vars" />
+    <property name="settings.editor.selected.configurable" value="preferences.Jenkins" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/vars" />
       <recent name="$PROJECT_DIR$/resources" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
